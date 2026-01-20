@@ -1,5 +1,5 @@
 # 💫 Welcome Visitorz:
-👋 I'm Guna!  <br>🎓 Pre-Final Year B.Tech AI & Data Science Student.  <br>🤖 Passionate about exploring ML, DL, and AI technologies.  <br>📊 Love working on real-world AI projects & innovations.  <br>🚀 Actively participating in hackathons & paper presentations.  <br>💡 Always eager to learn and build something impactful!  
+👋 I'm Guna!  <br>🎓 Final Year B.Tech AI & Data Science Student.  <br>🤖 Passionate about exploring ML, DL, and AI technologies.  <br>📊 Love working on real-world AI projects & innovations.  <br>🚀 Actively participating in hackathons & paper presentations.  <br>💡 Always eager to learn and build something impactful!  
 
 
 ## 🌐 Socials:
